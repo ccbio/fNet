@@ -1,7 +1,8 @@
 fNet
 ====
 
-an R program, short of Filter by highly ranked gene for Support Vector Machine, for microarray classification. R program and Supplment meterial for "Yupeng Cun, Holger Fröhlich (2012) Integrating Prior Knowledge Into Prognostic Biomarker Discovery Based on Network Structure. arXiv:1212.3214 "
+an R program, short of Filter by highly ranked gene for Support Vector Machine, for microarray classification. 
+R program and Supplment meterial for "Yupeng Cun, Holger Fröhlich (2012) Integrating Prior Knowledge Into Prognostic Biomarker Discovery Based on Network Structure. arXiv:1212.3214 "
 
 FrSVM is the short of Filter by highly ranked gene for Support Vector Mchine. Download source codes here.  FrSVM is a feature selection algorithm which integrates protein-protein interaction network information into gene selection for prognostic biomarker discovery. 
 
